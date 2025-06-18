@@ -1,6 +1,6 @@
 # Revenue_Dashboard
 
-# 📊 Data Group Data Visualisation: Empowering Business with Effective Insights
+# 📊  Data Visualisation: Empowering Business with Effective Insights
 
 This project is part of the **Data Visualisation Virtual Experience Program** offered by **Forage** in collaboration with **Data Group**. It focuses on building interactive visual reports using **Power BI** to uncover actionable insights from business sales data.
 
